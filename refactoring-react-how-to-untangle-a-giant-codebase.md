@@ -1,4 +1,4 @@
-# Refactoring React: How to untangle a giant codebase
+# Refactoring React: How to Untangle a Giant Codebase
 ## Abstract
 Imagine this: it’s your first day in a new codebase and you’re pumped! You open a component file and there it is... your worst nightmare. The file’s thousands of lines long - and it’s just supposed to be a presentational component!
 
