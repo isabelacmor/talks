@@ -1,4 +1,4 @@
-# Localization: implementation and testing... locally
+# Localization: Implementation and Testing... Locally
 ## Abstract
 So you have a product and are planning to ship to a global audience. But you’re still using *dun dun dun* hard coded English strings! In this talk, you’ll learn how to set up the infrastructure for localization in your React app and how to test your implementations locally, without needing to speak another language!
 
