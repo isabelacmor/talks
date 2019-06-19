@@ -1,4 +1,4 @@
-# Localization vs internationalization: shipping to global users
+# Localization vs Internationalization: Shipping to Global Users
 ## Abstract
 Only 10% of users worldwide are English speakers, so we know that shipping a product at a global scale is both necessary and difficult. You hear all this talk about localization and internationalization, but all you know is that you want your app to be usable by every user on the planet.
 
