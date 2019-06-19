@@ -1,4 +1,4 @@
-# Nailing your technical interview: everything I learned when failing
+# Nailing Your Technical Interview: Everything I Learned From Failing
 ## Abstract
 Interviews are hard and nerve wracking. Technical interviews where you’re expected to whiteboard are even more terrifying. Come learn how to nail those interviews from someone who failed 4 separate Microsoft interview loops before finally getting hired! If I can do it, so can you!
 
