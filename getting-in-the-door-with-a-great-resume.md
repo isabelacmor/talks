@@ -1,4 +1,4 @@
-# Getting in the door with a great resume
+# Getting in the Door with a Great Resume
 ## Abstract
 Your resume is the first step in getting in the door with any company. How you highlight your achievements and skills, whether you’re brand new to coding or have been in the industry forever, is one of the most important things when applying for jobs. Learn how to make your skills shine in your resume and get past the dreaded resume screen!
 
