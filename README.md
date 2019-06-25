@@ -15,6 +15,7 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 * [Localization vs Internationalization: Shipping to Global Users](https://github.com/isabelacmor/talks/blob/master/localization-vs-internatonalize.md)
 * [Localization: Implementating and Testing... Locally](https://github.com/isabelacmor/talks/blob/master/localization-implementation-and-testing.md)
 * [Creative Coding: Making Reusable SVGs with React](https://github.com/isabelacmor/talks/blob/master/making-reusable-svgs-with-react.md)
+* [Writing Semantic HTML for Accessibility and Scalability](https://github.com/isabelacmor/talks/blob/master/semantic-html.md)
 
 ### Speaker bio
 
