@@ -10,7 +10,7 @@ Level: Intermediate
 ### Objectives
 * Provide an overview on localization and tooling used
 * Show how to add localization to strings in your product
-* Show how to update tests to handle localizaed strings
+* Show how to update tests to handle localized strings
 * Show how to manually test localized strings in a local dev environment
 
 This talk will include code snippets, but no live coding.
