@@ -4,12 +4,12 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 ### Previous talks
 * [Anatomy of a Mechanical Keyboard](https://github.com/isabelacmor/talks/blob/master/anatomy-of-a-mechanical-keyboard.md)
 * [A/B Testing with React: Building Data Driven Design](https://github.com/isabelacmor/talks/blob/master/ab-testing-in-react.md)
+* [Starting from Scratch: the Startups Guide to Creating a Design System](https://github.com/isabelacmor/talks/blob/master/startups-guide-to-creating-a-design-system.md)
 
 ### Current CFPs that could be delivered
 * [Designing for Extremes](https://github.com/isabelacmor/talks/blob/master/designing-for-extremes.md)
 * [Nailing Your Technical Interview: Everything I Learned From Failing](https://github.com/isabelacmor/talks/blob/master/nailing-your-technical-interview.md)
 * [Getting in the Door with a Great Resume](https://github.com/isabelacmor/talks/blob/master/getting-in-the-door-with-a-great-resume.md)
-* [Starting from Scratch: the Startups Guide to Creating a Design System](https://github.com/isabelacmor/talks/blob/master/startups-guide-to-creating-a-design-system.md)
 * [Making Your Apps Accessible: the Right Tools for the Job](https://github.com/isabelacmor/talks/blob/master/making-your-apps-accessible.md)
 * [Refactoring React: How to Untangle a Giant Codebase](https://github.com/isabelacmor/talks/blob/master/refactoring-react-how-to-untangle-a-giant-codebase.md)
 * [Localization vs Internationalization: Shipping to Global Users](https://github.com/isabelacmor/talks/blob/master/localization-vs-internatonalize.md)
