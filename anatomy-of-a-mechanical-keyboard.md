@@ -16,4 +16,5 @@ Level: Beginner
 * Give resources and recommendations for first-time keyboards and where to buy them
 
 ## Delivered at
-[Seattle Mechanical Keyboard Meetup 2018](https://ckeys.org/events/smkmeetup/)
+* [Seattle Mechanical Keyboard Meetup 2018 & 2019](https://ckeys.org/events/smkmeetup/)
+  * Slides: [https://github.com/isabelacmor/talks/blob/master/slides/AnatomyOfMechanicalKeyboard.pdf](https://github.com/isabelacmor/talks/blob/master/slides/AnatomyOfMechanicalKeyboard.pdf)
