@@ -12,3 +12,6 @@ Length: 60 mins
 * Explain how to create a design system from the ground up, including colors, typography, and tone
 
 This talk is slides-based, with a focus on providing both an overview of design systems in general and deep-diving into various aspects of design systems, including choosing color palettes, typography, tone, and copy. This talk will also cover how to approach design semantically and provide suggestions on tooling for creating and maintaining design systems. This talk is geared at developers with some background in UI/UX and new designers.
+
+## Delivered at
+* [Chicago JSCamp](https://twitter.com/chicago_js/status/1163817713447395328)
