@@ -16,3 +16,6 @@ This talk can be presented in two ways:
 ## Delivered at
 * [Seattle Web App Developers Meetup](https://www.meetup.com/Seattle-Web-App-Developers-Group/events/257189459/)
 * [Seattle ReactJS Meetup](https://www.meetup.com/seattle-react-js/events/259175585/)
+  * Slides: [https://www.slideshare.net/IsabelaMoreira21/ab-testing-with-react](https://www.slideshare.net/IsabelaMoreira21/ab-testing-with-react)
+  * Recording: [https://www.youtube.com/watch?v=FsKlL8EE9pQ](https://www.youtube.com/watch?v=FsKlL8EE9pQ)
+  * Code: [https://github.com/isabelacmor/ab-testing-react](https://github.com/isabelacmor/ab-testing-react)
