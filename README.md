@@ -8,6 +8,7 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 - [A/B Testing with React: Building Data Driven Design](https://github.com/isabelacmor/talks/blob/master/ab-testing-in-react.md)
 - [Starting from Scratch: the Startups Guide to Creating a Design System](https://github.com/isabelacmor/talks/blob/master/startups-guide-to-creating-a-design-system.md)
 - [Localization: Implementating and Testing... Locally](https://github.com/isabelacmor/talks/blob/master/localization-implementation-and-testing.md)
+- [Creative Coding: Making Reusable SVGs with React](https://github.com/isabelacmor/talks/blob/master/making-reusable-svgs-with-react.md)
 
 ### New CFPs that could be delivered
 
@@ -16,7 +17,6 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 - [Getting in the Door with a Great Resume](https://github.com/isabelacmor/talks/blob/master/getting-in-the-door-with-a-great-resume.md)
 - [Making Your Apps Accessible: the Right Tools for the Job](https://github.com/isabelacmor/talks/blob/master/making-your-apps-accessible.md)
 - [Refactoring React: How to Untangle a Giant Codebase](https://github.com/isabelacmor/talks/blob/master/refactoring-react-how-to-untangle-a-giant-codebase.md)
-- [Creative Coding: Making Reusable SVGs with React](https://github.com/isabelacmor/talks/blob/master/making-reusable-svgs-with-react.md)
 - [Writing Semantic HTML for Accessibility and Scalability](https://github.com/isabelacmor/talks/blob/master/semantic-html.md)
 
 ### Speaker bio
