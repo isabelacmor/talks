@@ -16,4 +16,4 @@ This talk is slides-based, with a focus on providing both an overview of design 
 ## Delivered at
 * [Chicago JSCamp](https://twitter.com/chicago_js/status/1163817713447395328)
   * Slides: [https://github.com/isabelacmor/talks/blob/master/slides/StartupsGuideToCreatingDesignSystem.pdf](https://github.com/isabelacmor/talks/blob/master/slides/StartupsGuideToCreatingDesignSystem.pdf)
-  * Recording: coming soon
+  * Recording: https://www.youtube.com/watch?v=OE5UxUiRfvo&t=5s
