@@ -21,8 +21,8 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 
 ### Speaker bio
 
-Isabela is a senior UX engineer at a Seattle startup, previously at Microsoft, Google, and a legal tech startup. She loves building beautiful and usable UI and believes the only way to achieve that is to listen to your users!
+Isabela is a senior UX engineer at a Seattle-based startup, Cedar AI, focusing on designing and coding user experiences for the freight train industry. Previously at Microsoft and Google, she's found her home wearing many hats in the startup world.
 
 Isabela is a huge fan of the intersection of code and design and also loves mechanical keyboards. She's an advocate for women and minorities in tech and frequently speaks out on [Twitter](https://twitter.com/isabelacmor) and provides tech resources on her [blog](https://isabela.dev).
 
-[Headshot](https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/53556665_1667720256692090_6133194117364056064_o.jpg?_nc_cat=101&_nc_oc=AQlSZrO4TI4Uzk1ixYnvwqmCLHc3fdyDRkvocVGHdYvnCT-nJuO3jR9QH9eXB45l8U-7HkKa7kTWJdRB2b0xiElo&_nc_ht=scontent.ftpa1-1.fna&oh=2ea9283c76e7f3389b98f7873d1d0718&oe=5D84E910)
+[Headshot](https://isabela.dev/content/images/2019/06/53556665_1667720256692090_6133194117364056064_o-1.jpg)
