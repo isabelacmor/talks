@@ -1,6 +1,6 @@
 # Making Your Apps Accessible: The Right Tools for the Job
 ## Abstract
-Everyone knows accessibility is important, but even with the best of intentions, we still might not be achieving an accessible design in our apps. In this talk, we’ll go over a set of tools useful in making sure our designs are accessible for both visually and hearing impaired users.
+Everyone knows accessibility is important, but even with the best of intentions, we still might not be achieving an accessible design in our apps. In this talk, I'll give an overview on common areas to tackle for accessibility and recommendations on tools that both designers and developers can use to test accessibility.
 
 Level: Beginner
 
