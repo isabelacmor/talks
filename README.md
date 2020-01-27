@@ -26,3 +26,6 @@ Isabela is a senior UX engineer at a Seattle-based startup, Cedar AI, focusing o
 Isabela is a huge fan of the intersection of code and design and also loves mechanical keyboards. She's an advocate for women and minorities in tech and frequently speaks out on [Twitter](https://twitter.com/isabelacmor) and provides tech resources on her [blog](https://isabela.dev).
 
 [Headshot](https://isabela.dev/content/images/2019/06/53556665_1667720256692090_6133194117364056064_o-1.jpg)
+
+### Speaker rider
+Before I commit to speaking at your event, I ask that you read through my [speaker rider](https://github.com/isabelacmor/talks/blob/master/speaker_rider.md).
