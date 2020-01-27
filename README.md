@@ -15,7 +15,7 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 - [Designing for Extremes](https://github.com/isabelacmor/talks/blob/master/designing-for-extremes.md)
 - [Nailing Your Technical Interview: Everything I Learned From Failing](https://github.com/isabelacmor/talks/blob/master/nailing-your-technical-interview.md)
 - [Getting in the Door with a Great Resume](https://github.com/isabelacmor/talks/blob/master/getting-in-the-door-with-a-great-resume.md)
-- [Making Your Apps Accessible: the Right Tools for the Job](https://github.com/isabelacmor/talks/blob/master/making-your-apps-accessible.md)
+- [Building empathy and accessible apps](https://github.com/isabelacmor/talks/blob/master/building-empathy-and-accessible-apps.md)
 - [Refactoring React: How to Untangle a Giant Codebase](https://github.com/isabelacmor/talks/blob/master/refactoring-react-how-to-untangle-a-giant-codebase.md)
 - [Writing Semantic HTML for Accessibility and Scalability](https://github.com/isabelacmor/talks/blob/master/semantic-html.md)
 
