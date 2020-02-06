@@ -9,6 +9,7 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 - [Starting from Scratch: the Startups Guide to Creating a Design System](https://github.com/isabelacmor/talks/blob/master/startups-guide-to-creating-a-design-system.md)
 - [Localization: Implementating and Testing... Locally](https://github.com/isabelacmor/talks/blob/master/localization-implementation-and-testing.md)
 - [Creative Coding: Making Reusable SVGs with React](https://github.com/isabelacmor/talks/blob/master/making-reusable-svgs-with-react.md)
+- [Keynote: The Way We Think About Change](https://github.com/isabelacmor/talks/blob/master/the-way-we-think-about-change.md)
 
 ### New CFPs that could be delivered
 
