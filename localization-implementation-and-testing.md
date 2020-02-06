@@ -23,3 +23,5 @@ To start, I’ll give an overview of localization and its importance. Then, I’
 ## Delivered at
 
 - [NordicJS](https://nordicjs.com/2019/speakers)
+  - Slides: https://github.com/isabelacmor/talks/blob/master/slides/LocalizationImplementationAndTesting.pdf
+  - Recording: https://www.youtube.com/watch?v=mh_Ck6Snoyw&list=PLGP3VO5jDf8x0gh5H7dZ41F0nVDlwDMuy&index=6
