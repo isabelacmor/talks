@@ -10,13 +10,13 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 - [Localization: Implementating and Testing... Locally](https://github.com/isabelacmor/talks/blob/master/localization-implementation-and-testing.md)
 - [Creative Coding: Making Reusable SVGs with React](https://github.com/isabelacmor/talks/blob/master/making-reusable-svgs-with-react.md)
 - [Keynote: The Way We Think About Change](https://github.com/isabelacmor/talks/blob/master/the-way-we-think-about-change.md)
+- [Building empathy and accessible apps](https://github.com/isabelacmor/talks/blob/master/building-empathy-and-accessible-apps.md)
 
 ### New CFPs that could be delivered
 
 - [Designing for Extremes](https://github.com/isabelacmor/talks/blob/master/designing-for-extremes.md)
 - [Nailing Your Technical Interview: Everything I Learned From Failing](https://github.com/isabelacmor/talks/blob/master/nailing-your-technical-interview.md)
 - [Getting in the Door with a Great Resume](https://github.com/isabelacmor/talks/blob/master/getting-in-the-door-with-a-great-resume.md)
-- [Building empathy and accessible apps](https://github.com/isabelacmor/talks/blob/master/building-empathy-and-accessible-apps.md)
 - [Refactoring React: How to Untangle a Giant Codebase](https://github.com/isabelacmor/talks/blob/master/refactoring-react-how-to-untangle-a-giant-codebase.md)
 - [Writing Semantic HTML for Accessibility and Scalability](https://github.com/isabelacmor/talks/blob/master/semantic-html.md)
 
@@ -29,4 +29,5 @@ Isabela is a huge fan of the intersection of code and design and also loves mech
 [Headshot](https://isabela.dev/content/images/2019/06/53556665_1667720256692090_6133194117364056064_o-1.jpg)
 
 ### Speaker rider
+
 Before I commit to speaking at your event, I ask that you read through my [speaker rider](https://github.com/isabelacmor/talks/blob/master/speaker_rider.md).
