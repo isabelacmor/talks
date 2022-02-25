@@ -26,7 +26,7 @@ Isabela is a software engineer at Microsoft, building a design system and compon
 
 Isabela is a huge fan of the intersection of code and design and loves mechanical keyboards. As a Latina in tech, she's an advocate for other minorities and frequently speaks out on [Twitter](https://twitter.com/isabelacmor) and provides tech resources on her [blog](https://isabela.dev).
 
-[Headshot](https://isabela.dev/content/images/2019/06/53556665_1667720256692090_6133194117364056064_o-1.jpg)
+[Headshot](https://www.isabela.dev/static/me-7215822689f09f222a249a8079e50683.jpeg)
 
 ### Speaker rider
 
