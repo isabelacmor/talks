@@ -24,5 +24,7 @@ The goal of this talk for developers and designers alike to leave feeling better
 
 ## Delivered at
 
+- [JSConfBP 2024](https://jsconfbp.com/schedule)
+  - Slides: [https://github.com/isabelacmor/talks/blob/master/slides/BuildingEmpathy_JsConfBP.pdf](https://github.com/isabelacmor/talks/blob/master/slides/BuildingEmpathy_JsConfBP.pdf)
 - [c't <webdev> 2020](https://ctwebdev.de/programm.html)
-  - Slides: [https://github.com/isabelacmor/talks/blob/master/slides/BuildingEmpathy.pdf](https://github.com/isabelacmor/talks/blob/master/slides/BuildingEmpathy.pdf)
+  - Slides: [https://github.com/isabelacmor/talks/blob/master/slides/BuildingEmpathy_ctdev.pdf](https://github.com/isabelacmor/talks/blob/master/slides/BuildingEmpathy_ctdev.pdf)

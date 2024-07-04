@@ -1,7 +1,8 @@
 # Speaker rider
+
 Before I'll agree to speaking at a conference, meetup, or event, I do as much research as possible to ensure that it aligns with my goals of inclusion, diversity, and accessibility in the community.
 
-I acknowledge that speaking is a privilege and I'm grateful to all the conference organizers that have done a wonderful job of hosting me in the past. I want to continue to use this privilege to help shape the tech community into a more inclusive version where everyone can feel safe and represented, regardless of race, gender, or identity. 
+I acknowledge that speaking is a privilege and I'm grateful to all the conference organizers that have done a wonderful job of hosting me in the past. I want to continue to use this privilege to help shape the tech community into a more inclusive version where everyone can feel safe and represented, regardless of race, gender, or identity.
 
 ## Hosting accommodations
 
@@ -67,7 +68,7 @@ I acknowledge that speaking is a privilege and I'm grateful to all the conferenc
 ### Intellectual property
 
 - I allow video recordings and live streams of my content as long as they're accessible and uncensored.
-- I'll use whatever my preferred format for slides is at the time (right now, I use either Keynote or Google Slides) and will not use branded slides or templates.
+- I'll use whatever my preferred format for slides is at the time (I currently use PowerPoint) and will not use branded slides or templates.
 - Speakers should have the option to present from their own computer or from one provided by the event. Providing the hardware needed for a speaker to present (laptop, clicker, etc) is critical for an inclusive experience.
 
 ## Final thoughts
