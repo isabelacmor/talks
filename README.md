@@ -19,9 +19,11 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 
 ### Speaker bio
 
-Isabela is a software engineer at Microsoft, building a design system and component library to bring coherence to internal products. Previously at Google and various startups, she's found her home wearing many hats at Microsoft - from engineering, to design work, to community support and outreach.
+Isabela is a lead software engineer at Disney, helping build the future of Disney streaming services. Previously at Microsoft, Google, and various startups, she's focused her career in building delightful and accessible user-focused products.
 
-Isabela loves the intersection of code, design, and tooling, focusing on empowering the community to create beautiful, usable, and accessible products. You can find her on [Twitter](https://twitter.com/isabelacmor), posting about mechanical keyboards, plants, and the web.
+Isabela loves the intersection of code, design, and tooling. Her goal is to empower the community to create user-focused experiences by connecting the dots across these areas.
+
+You can find her on [Twitter](https://twitter.com/isabelacmor), posting about mechanical keyboards, plants, and the web.
 
 [Headshot](https://github.com/isabelacmor/talks/blob/master/headshot.jpeg)
 
