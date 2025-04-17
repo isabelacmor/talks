@@ -23,4 +23,5 @@ We'll explore how and why this particular type of testing can be flakey, which w
 
 - Internal team workshops
 - [React Miami 2025](https://www.reactmiami.com/speakers/mclenachen)
-  - Slides: https://github.com/isabelacmor/talks/blob/master/slides/ReactMiami2025-AutomatedTesting.pdf 
+  - Slides: https://github.com/isabelacmor/talks/blob/master/slides/ReactMiami2025-AutomatedTesting.pdf
+  - Code: https://github.com/isabelacmor/playwright-docker
