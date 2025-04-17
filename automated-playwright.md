@@ -17,8 +17,10 @@ Length: 30 mins
 
 This talk is primarily geared towards intermediate+ frontend or full stack engineers looking to level-up their automated testing game. We'll begin by talking about what Playwright is and how it fits into our suite of testing tools. Then we'll deep dive into the visual regression and accessibility testing options we have, including dynamically generating these tests based on our site's navigation structure.
 
-We'll explore how and why this particular type of testing can be flakey, which will transition us into the second part of the talk - Dockerizing our test suites so they can be run in a consistent environment across the engineering team and CICD pipelines. Once that's complete, we'll walk through how to integrate everything we've built into your CICD pipeline (in GitHub or Azure DevOps, I still haven't decided yet) and view detailed test results on a per-pipeline run basis for debugging.
+We'll explore how and why this particular type of testing can be flakey, which will transition us into the second part of the talk - Dockerizing our test suites so they can be run in a consistent environment across the engineering team and CICD pipelines. Once that's complete, we'll walk through how to integrate everything we've built into your CICD pipeline in GitHub and view detailed test results on a per-pipeline run basis for debugging.
 
 ## Delivered at
 
 - Internal team workshops
+- [React Miami 2025](https://www.reactmiami.com/speakers/mclenachen)
+  - Slides: https://github.com/isabelacmor/talks/blob/master/slides/ReactMiami2025-AutomatedTesting.pdf 
