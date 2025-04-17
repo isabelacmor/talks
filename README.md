@@ -4,6 +4,7 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 
 ### Previous talks
 
+- [Automated Visual Regression and Accessibility Testing Made Easy](https://github.com/isabelacmor/talks/blob/master/automated-playwright.md)
 - [Building empathy and accessible apps](https://github.com/isabelacmor/talks/blob/master/building-empathy-and-accessible-apps.md)
 - [Keynote: The Way We Think About Change](https://github.com/isabelacmor/talks/blob/master/the-way-we-think-about-change.md)
 - [Anatomy of a Mechanical Keyboard](https://github.com/isabelacmor/talks/blob/master/anatomy-of-a-mechanical-keyboard.md)
@@ -14,7 +15,6 @@ This repo hosts all my conference talks, current CFPs, and speaker bio!
 
 ### New CFPs that could be delivered
 
-- [Automated Visual Regression and Accessibility Testing Made Easy](https://github.com/isabelacmor/talks/blob/master/automated-playwright.md)
 - [Navigating the Unfamiliar: Understanding New Codebases](https://github.com/isabelacmor/talks/blob/master/navigating-the-unfamiliar.md)
 
 ### Speaker bio
